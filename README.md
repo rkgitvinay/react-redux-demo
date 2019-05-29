@@ -1,4 +1,4 @@
-Clone this project with  [Create React Redux App](https://github.com/rkgitvinay/react-redux-demo).
+Clone this project with  [https://github.com/rkgitvinay/react-redux-demo](https://github.com/rkgitvinay/react-redux-demo).
 
 ## Available Scripts
 
